@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MemahamiStringArgs/MemahamiStringArgs.iml" filepath="$PROJECT_DIR$/MemahamiStringArgs/MemahamiStringArgs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrintDanAlurEksekusiJava/PrintDanAlurEksekusiJava.iml" filepath="$PROJECT_DIR$/PrintDanAlurEksekusiJava/PrintDanAlurEksekusiJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TipeDataPrimitive/TipeDataPrimitive.iml" filepath="$PROJECT_DIR$/TipeDataPrimitive/TipeDataPrimitive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial Java.iml" filepath="$PROJECT_DIR$/Tutorial Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variable/Variable.iml" filepath="$PROJECT_DIR$/Variable/Variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 - Organisasi Program dengan Package/programDenganIDE/programDenganIDE.iml" filepath="$PROJECT_DIR$/05 - Organisasi Program dengan Package/programDenganIDE/programDenganIDE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 - Organisasi Program dengan Package/programDenganManual/programDenganManual.iml" filepath="$PROJECT_DIR$/05 - Organisasi Program dengan Package/programDenganManual/programDenganManual.iml" />
+    </modules>
+  </component>
+</project>
